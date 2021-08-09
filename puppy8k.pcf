@@ -1,0 +1,42 @@
+set_io RXD J5
+set_io TXD G1
+set_io CLK J3
+
+set_io SPIMOSI B1
+set_io SPIMISO F5
+set_io SPICS E4
+set_io SPICLK C1
+
+set_io HVADC_CLK D1
+set_io HVADC_DATA H4
+
+set_io VC_LD E3
+set_io VC_CS H6
+set_io VC_CLK H5
+set_io VC_DATA F2
+
+set_io FAIMS G4
+set_io NOTFAIMS F1
+
+set_io IONDAT H2
+set_io IONCLK C2
+
+set_io BIASPOS J4
+set_io BIASNEG G2
+
+set_io COIL_UPA E2
+set_io COIL_UPB H3
+set_io COIL_DOWNA F3
+set_io COIL_DOWNB G3
+
+
+set_io NAPPIBUTTON D2
+set_io NAPPILED J2
+set_io PUMP F4
+set_io IONIZE G5
+set_io RASPBERRY H1
+
+set_io DEBUGLED1 M12
+set_io DEBUGLED2 R16
+set_io DEBUGBUT1 K11
+set_io DEBUGBUT2 P13
